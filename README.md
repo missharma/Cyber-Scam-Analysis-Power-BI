@@ -64,23 +64,23 @@ The dashboard provides interactive analysis using filters such as:
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive-Overview.png)
+![Executive Overview](Executive-Overview.png)
 
 ### Geographic Analysis
 
-![Geographic Analysis](Screenshots/Geographic-Analysis.png)
+![Geographic Analysis](Geographic-Analysis.png)
 
 ### Scam Pattern Analysis
 
-![Scam Pattern Analysis](Screenshots/Scam-Pattern-Analysis.png)
+![Scam Pattern Analysis](Scam-Pattern-Analysis.png)
 
 ### Victim & Payment Analysis
 
-![Victim & Payment Analysis](Screenshots/Victim-Payment-Analysis.png)
+![Victim & Payment Analysis](Victim-Payment-Analysis.png)
 
 ### Recovery & Force Enforcement
 
-![Recovery & Force Enforcement](Screenshots/Recovery-Force-Enforcement.png)
+![Recovery & Force Enforcement](Recovery-Force-Enforcement.png)
 
 ## 📂 Project Files
 
